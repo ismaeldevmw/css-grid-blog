@@ -157,7 +157,6 @@ nav .profile-link a {
 .blogs-posts-container h3 {
     border-bottom: 1px solid #cdd2da;
     padding-bottom: 20px;
-    text-align: center;
 }
 
 .blogs-button {
@@ -276,4 +275,8 @@ footer p {
 
 .project-container {
     padding: 0 5px;
+}
+
+.project-container img {
+    width: 100%;
 }
