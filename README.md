@@ -12,10 +12,10 @@ ___
 
 > Maquetar el Header, el Main y el Footer ;)
 
-## Sobre mí
-___
-![](wireframes/screenshot-about-me.png)
-
-## Artículos
+## Página --> Artículos
 ___
 ![](wireframes/screenshot-articles.png)
+
+## Página --> Acerca de mí
+___
+![](wireframes/screenshot-about-me.png)
