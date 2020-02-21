@@ -2,8 +2,6 @@
 ___
 Maquetación de un sitio web estático basado en un blog personal.
 
-![Minion](https://octodex.github.com/images/minion.png)
-
 ## Habilidades aplicadas
 ___
 > Maquetar un blog estático :-)
